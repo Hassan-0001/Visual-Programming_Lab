@@ -1,0 +1,10 @@
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\bin\Debug\233516_Lab-(6).exe.config
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\bin\Debug\233516_Lab-(6).exe
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\bin\Debug\233516_Lab-(6).pdb
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\obj\Debug\233516_Lab-(6).csproj.AssemblyReference.cache
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\obj\Debug\_233516_Lab__6_.Form1.resources
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\obj\Debug\_233516_Lab__6_.Properties.Resources.resources
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\obj\Debug\233516_Lab-(6).csproj.GenerateResource.cache
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\obj\Debug\233516_Lab-(6).csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\obj\Debug\233516_Lab-(6).exe
+C:\Users\Hassan\Desktop\233516_Lab-(6)\233516_Lab-(6)\obj\Debug\233516_Lab-(6).pdb
