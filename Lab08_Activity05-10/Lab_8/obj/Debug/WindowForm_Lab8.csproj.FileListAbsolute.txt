@@ -1,0 +1,4 @@
+C:\Users\Hassan\Downloads\Lab_8\obj\Debug\WindowForm_Lab8.csproj.AssemblyReference.cache
+C:\Users\Hassan\Downloads\Lab_8\obj\Debug\WindowForm_Lab8.Form2.resources
+C:\Users\Hassan\Downloads\Lab_8\obj\Debug\WindowForm_Lab8.csproj.GenerateResource.cache
+C:\Users\Hassan\Downloads\Lab_8\obj\Debug\WindowForm_Lab8.Form1.resources
