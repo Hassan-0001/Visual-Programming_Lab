@@ -1,0 +1,7 @@
+C:\Users\Hassan\Music\github\Lab04_activity\Lab04_activity\bin\Debug\Lab04_activity.exe.config
+C:\Users\Hassan\Music\github\Lab04_activity\Lab04_activity\bin\Debug\Lab04_activity.exe
+C:\Users\Hassan\Music\github\Lab04_activity\Lab04_activity\bin\Debug\Lab04_activity.pdb
+C:\Users\Hassan\Music\github\Lab04_activity\Lab04_activity\obj\Debug\Lab04_activity.csproj.AssemblyReference.cache
+C:\Users\Hassan\Music\github\Lab04_activity\Lab04_activity\obj\Debug\Lab04_activity.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Music\github\Lab04_activity\Lab04_activity\obj\Debug\Lab04_activity.exe
+C:\Users\Hassan\Music\github\Lab04_activity\Lab04_activity\obj\Debug\Lab04_activity.pdb
