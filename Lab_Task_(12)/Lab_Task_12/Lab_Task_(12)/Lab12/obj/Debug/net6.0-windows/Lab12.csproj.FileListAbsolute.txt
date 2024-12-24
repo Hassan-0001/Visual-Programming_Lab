@@ -1,0 +1,61 @@
+Z:\visual studio\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.exe
+Z:\visual studio\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.deps.json
+Z:\visual studio\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.runtimeconfig.json
+Z:\visual studio\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.dll
+Z:\visual studio\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.pdb
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.csproj.AssemblyReference.cache
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\App.g.cs
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12_MarkupCompile.cache
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12_MarkupCompile.lref
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.g.resources
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.AssemblyInfoInputs.cache
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.AssemblyInfo.cs
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.csproj.CoreCompileInputs.cache
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.dll
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\refint\Lab12.dll
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.pdb
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.genruntimeconfig.cache
+Z:\visual studio\Lab12\Lab12\obj\Debug\net6.0-windows\ref\Lab12.dll
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.exe
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.deps.json
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.runtimeconfig.json
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.dll
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.pdb
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\App.g.cs
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12_MarkupCompile.cache
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12_MarkupCompile.lref
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\MainWindow.baml
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.g.resources
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.AssemblyInfoInputs.cache
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.AssemblyInfo.cs
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.csproj.CoreCompileInputs.cache
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.dll
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\refint\Lab12.dll
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.pdb
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.genruntimeconfig.cache
+D:\task\tooba26162-233518_lab12-739c914\Lab12\Lab12\obj\Debug\net6.0-windows\ref\Lab12.dll
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.exe
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.deps.json
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.runtimeconfig.json
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.dll
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\bin\Debug\net6.0-windows\Lab12.pdb
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12_MarkupCompile.cache
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12_MarkupCompile.lref
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.g.resources
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.AssemblyInfoInputs.cache
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.AssemblyInfo.cs
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.dll
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\refint\Lab12.dll
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.pdb
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\Lab12.genruntimeconfig.cache
+C:\Users\Hassan\Desktop\New folder (2)\Lab12\Lab12\obj\Debug\net6.0-windows\ref\Lab12.dll
