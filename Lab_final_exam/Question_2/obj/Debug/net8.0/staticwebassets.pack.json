@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hassan\\Desktop\\Final_VP\\Question_2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Question_2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Question_2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hassan\\Desktop\\Final_VP\\Question_2\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Hassan\\Desktop\\Final_VP\\Question_2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hassan\\Desktop\\Final_VP\\Question_2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hassan\\Desktop\\Final_VP\\Question_2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Question_2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Question_2.props",
+      "PackagePath": "build\\Question_2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Question_2.props",
+      "PackagePath": "buildMultiTargeting\\Question_2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Question_2.props",
+      "PackagePath": "buildTransitive\\Question_2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

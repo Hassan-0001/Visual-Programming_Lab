@@ -1,0 +1,36 @@
+﻿@code {
+    public List<Question> Questions { get; set; }
+
+    protected override void OnInitialized()
+    {
+        // Sample data for the questions
+        Questions = new List<Question>
+        {
+            new Question
+            {
+                QuestionText = "What is the capital of France?",
+                Options = new List<string> { "Berlin", "Madrid", "Paris", "Rome" },
+                Difficulty = "Easy"
+            },
+            new Question
+            {
+                QuestionText = "Which planet is known as the Red Planet?",
+                Options = new List<string> { "Earth", "Mars", "Jupiter", "Saturn" },
+                Difficulty = "Medium"
+            },
+            new Question
+            {
+                QuestionText = "What is the largest mammal in the world?",
+                Options = new List<string> { "Elephant", "Blue Whale", "Giraffe", "Shark" },
+                Difficulty = "Hard"
+            }
+        };
+    }
+
+    public class Question
+    {
+        public string QuestionText { get; set; }
+        public List<string> Options { get; set; } // Ensure this is a List, not null
+        public string Difficulty { get; set; }
+    }
+}
