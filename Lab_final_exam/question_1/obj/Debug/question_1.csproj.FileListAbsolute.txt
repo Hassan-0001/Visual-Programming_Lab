@@ -1,0 +1,14 @@
+D:\question1\question_1\bin\Debug\question_1.exe.config
+D:\question1\question_1\bin\Debug\question_1.exe
+D:\question1\question_1\bin\Debug\question_1.pdb
+D:\question1\question_1\obj\Debug\question_1.csproj.AssemblyReference.cache
+D:\question1\question_1\obj\Debug\MainWindow.baml
+D:\question1\question_1\obj\Debug\MainWindow.g.cs
+D:\question1\question_1\obj\Debug\App.g.cs
+D:\question1\question_1\obj\Debug\question_1_MarkupCompile.cache
+D:\question1\question_1\obj\Debug\question_1.g.resources
+D:\question1\question_1\obj\Debug\question_1.Properties.Resources.resources
+D:\question1\question_1\obj\Debug\question_1.csproj.GenerateResource.cache
+D:\question1\question_1\obj\Debug\question_1.csproj.CoreCompileInputs.cache
+D:\question1\question_1\obj\Debug\question_1.exe
+D:\question1\question_1\obj\Debug\question_1.pdb
